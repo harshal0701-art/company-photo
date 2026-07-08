@@ -1,0 +1,11 @@
+{
+    "file_name": "rohit.jpg",
+    "s3_path": "s3://company-employee-photo/rohit.jpg",
+    "number_of_faces": 1,
+    "face_details": [
+        {
+            "face_number": 1,
+            "confidence": 100.0
+        }
+    ]
+}
